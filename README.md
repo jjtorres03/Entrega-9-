@@ -5,6 +5,6 @@
 
 ### Lista de comandos: 
 
-## Para Crear la Base de Datos:
+## 1 Para Crear la Base de Datos:
 
 *use ecommerce*
